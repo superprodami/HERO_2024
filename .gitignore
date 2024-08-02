@@ -1,5 +1,9 @@
 chassis/MDK-ARM/hero_chassis
+chassis/Middlewares
+chassis/Drivers
 
 gimbal/MDK-ARM/hero_gimbal
+gimbal/Middlewares
+gimbal/Drivers
 
 something
